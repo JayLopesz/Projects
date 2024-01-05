@@ -1,6 +1,4 @@
-print("This is a test and should not be considered")
 # Welcome message
-print("test")
 print("Welcome to bill calculator!")
 # Input for Total Bill
 totalBill = float(input("What was the total bill? $"))
@@ -20,3 +18,4 @@ finalBill = totalBill + tipMath
 yourPart = finalBill / people
 # Final print message with the value you should pay with a concatenation element
 print("Each person should pay: " + str(yourPart))
+print("Changes")
