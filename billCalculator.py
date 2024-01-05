@@ -1,3 +1,4 @@
+print("This is a test and should not be considered")
 # Welcome message
 print("test")
 print("Welcome to bill calculator!")
