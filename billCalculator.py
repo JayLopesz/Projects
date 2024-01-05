@@ -1,3 +1,4 @@
+print("This is a test and should not be considered")
 # Welcome message
 print("Welcome to bill calculator!")
 # Input for Total Bill
