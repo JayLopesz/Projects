@@ -1,0 +1,10 @@
+img{
+    max-width: 500px;
+    margin: auto;
+}
+* {
+    font-family: Sans-serif;
+}
+p {
+    font-size: 22px;
+}
