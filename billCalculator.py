@@ -1,4 +1,5 @@
 # Welcome message
+print("test")
 print("Welcome to bill calculator!")
 # Input for Total Bill
 totalBill = float(input("What was the total bill? $"))
